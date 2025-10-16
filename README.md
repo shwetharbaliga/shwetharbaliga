@@ -10,6 +10,18 @@
 
 [![Shwetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwetharbaliga)](https://github.com/anuraghazra/github-readme-stats)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shwetharbaliga&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shwetharbaliga&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shwetharbaliga&theme=github&utcOffset=8)
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shwetharbaliga&theme=github)
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

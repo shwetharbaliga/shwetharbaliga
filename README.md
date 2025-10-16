@@ -1,7 +1,9 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=30&pause=1000&color=fb6f92&multiline=true&repeat=false&width=435&lines=Hii%2C+I'm+Shwetha.)](https://git.io/typing-svg)
-![Shwetha's GitHub Profile Banner](github-header-banner.png)
+
+
+![profile banner](github-header-banner.png)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&logoSize=auto&color=blue)](https://www.linkedin.com/in/shwetharavindrabaliga/)

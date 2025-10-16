@@ -17,8 +17,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shwetharbaliga&theme=github&utcOffset=8)
 Markdown Usage
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shwetharbaliga&theme=github)
-<!--START_SECTION:activity-->
 
+
+<!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 

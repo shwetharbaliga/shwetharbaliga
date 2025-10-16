@@ -25,4 +25,5 @@ Markdown Usage
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Git &amp; GitHub Made Simple: Everything I Learned from Kunal Kushwaha’s Tutorial](https://medium.com/@shwethabaliga/git-github-made-simple-everything-i-learned-from-kunal-kushwahas-tutorial-670a6b802a35?source=rss-4667262f403d------2)
 <!-- BLOG-POST-LIST:END -->

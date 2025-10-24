@@ -56,11 +56,11 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/Preet-Sojitra/sinkedin/issues/72#issuecomment-3444082282) in [Preet-Sojitra/sinkedin](https://github.com/Preet-Sojitra/sinkedin)
-2. 🗣 Commented on [#61](https://github.com/Harshdev625/TimeMachine/issues/61#issuecomment-3444044058) in [Harshdev625/TimeMachine](https://github.com/Harshdev625/TimeMachine)
-3. 🔒 Closed issue [#124](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/124) in [rutikakengal/100DAYS_OF_100WEBPROJECTS](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS)
-4. 🔒 Closed issue [#11](https://github.com/swarooppatilx/bit-by-query/issues/11) in [swarooppatilx/bit-by-query](https://github.com/swarooppatilx/bit-by-query)
-5. 🔒 Closed issue [#10](https://github.com/swarooppatilx/bit-by-query/issues/10) in [swarooppatilx/bit-by-query](https://github.com/swarooppatilx/bit-by-query)
+1. 🗣 Commented on [#62](https://github.com/Sansi-28/KidCode/issues/62#issuecomment-3444247616) in [Sansi-28/KidCode](https://github.com/Sansi-28/KidCode)
+2. 🗣 Commented on [#72](https://github.com/Preet-Sojitra/sinkedin/issues/72#issuecomment-3444082282) in [Preet-Sojitra/sinkedin](https://github.com/Preet-Sojitra/sinkedin)
+3. 🗣 Commented on [#61](https://github.com/Harshdev625/TimeMachine/issues/61#issuecomment-3444044058) in [Harshdev625/TimeMachine](https://github.com/Harshdev625/TimeMachine)
+4. 🔒 Closed issue [#124](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS/issues/124) in [rutikakengal/100DAYS_OF_100WEBPROJECTS](https://github.com/rutikakengal/100DAYS_OF_100WEBPROJECTS)
+5. 🔒 Closed issue [#11](https://github.com/swarooppatilx/bit-by-query/issues/11) in [swarooppatilx/bit-by-query](https://github.com/swarooppatilx/bit-by-query)
 <!--END_SECTION:activity-->
 
 ---

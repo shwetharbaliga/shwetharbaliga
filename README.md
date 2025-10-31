@@ -56,11 +56,11 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#113](https://github.com/Preet-Sojitra/sinkedin/pull/113#issuecomment-3468935457) in [Preet-Sojitra/sinkedin](https://github.com/Preet-Sojitra/sinkedin)
-2. 🗣 Commented on [#113](https://github.com/Preet-Sojitra/sinkedin/pull/113#issuecomment-3468907037) in [Preet-Sojitra/sinkedin](https://github.com/Preet-Sojitra/sinkedin)
-3. 💪 Opened PR [#113](undefined) in [Preet-Sojitra/sinkedin](https://github.com/Preet-Sojitra/sinkedin)
-4. 💪 Opened PR [#347](undefined) in [acesdit/ProjectHive](https://github.com/acesdit/ProjectHive)
-5. 🗣 Commented on [#68](https://github.com/Sansi-28/KidCode/pull/68#issuecomment-3456876078) in [Sansi-28/KidCode](https://github.com/Sansi-28/KidCode)
+1. 🗣 Commented on [#42](https://github.com/amaanalikhan3000/Cinemahub2/pull/42#issuecomment-3473607545) in [amaanalikhan3000/Cinemahub2](https://github.com/amaanalikhan3000/Cinemahub2)
+2. 🗣 Commented on [#42](https://github.com/amaanalikhan3000/Cinemahub2/pull/42#issuecomment-3473606220) in [amaanalikhan3000/Cinemahub2](https://github.com/amaanalikhan3000/Cinemahub2)
+3. 💪 Opened PR [#42](undefined) in [amaanalikhan3000/Cinemahub2](https://github.com/amaanalikhan3000/Cinemahub2)
+4. 🗣 Commented on [#113](https://github.com/Preet-Sojitra/sinkedin/pull/113#issuecomment-3468935457) in [Preet-Sojitra/sinkedin](https://github.com/Preet-Sojitra/sinkedin)
+5. 🗣 Commented on [#113](https://github.com/Preet-Sojitra/sinkedin/pull/113#issuecomment-3468907037) in [Preet-Sojitra/sinkedin](https://github.com/Preet-Sojitra/sinkedin)
 <!--END_SECTION:activity-->
 
 ---

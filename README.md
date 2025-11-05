@@ -51,6 +51,9 @@
 
 ## Contributions
 
+[![An image of @shwetharbaliga's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shwetharbaliga)](https://holopin.io/@shwetharbaliga)
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/shwetharbaliga/shwetharbaliga/output/snake.svg" alt="GitHub Snake Animation" width="80%" />
 </p>

@@ -36,6 +36,7 @@
 ## My Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [What Happens When You Type a URL in Your Browser? A Beginner-Friendly Explanation](https://medium.com/@shwethabaliga/what-happens-when-you-type-a-url-in-your-browser-a-beginner-friendly-explanation-44c7dd7fc855?source=rss-4667262f403d------2)
 - [Git &amp; GitHub Made Simple: Everything I Learned from Kunal Kushwaha’s Tutorial](https://medium.com/@shwethabaliga/git-github-made-simple-everything-i-learned-from-kunal-kushwahas-tutorial-670a6b802a35?source=rss-4667262f403d------2)
 <!-- BLOG-POST-LIST:END -->
 
